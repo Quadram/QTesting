@@ -13,7 +13,6 @@
 		2AAF13421C038C7900160179 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13401C038C7900160179 /* Main.storyboard */; };
 		2AAF13441C038C7900160179 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13431C038C7900160179 /* Assets.xcassets */; };
 		2AAF13471C038C7900160179 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13451C038C7900160179 /* LaunchScreen.storyboard */; };
-		2AAF13501C03910C00160179 /* Feature2.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAF134F1C03910C00160179 /* Feature2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		2AAF13431C038C7900160179 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AAF13461C038C7900160179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AAF13481C038C7900160179 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2AAF134E1C03910C00160179 /* Feature2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Feature2.h; sourceTree = "<group>"; };
-		2AAF134F1C03910C00160179 /* Feature2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Feature2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +67,6 @@
 				2AAF13451C038C7900160179 /* LaunchScreen.storyboard */,
 				2AAF13481C038C7900160179 /* Info.plist */,
 				2AAF13371C038C7900160179 /* Supporting Files */,
-				2AAF134E1C03910C00160179 /* Feature2.h */,
-				2AAF134F1C03910C00160179 /* Feature2.m */,
 			);
 			path = QTesting;
 			sourceTree = "<group>";
@@ -157,7 +152,6 @@
 				2AAF133F1C038C7900160179 /* ViewController.m in Sources */,
 				2AAF133C1C038C7900160179 /* AppDelegate.m in Sources */,
 				2AAF13391C038C7900160179 /* main.m in Sources */,
-				2AAF13501C03910C00160179 /* Feature2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

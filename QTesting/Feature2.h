@@ -10,4 +10,7 @@
 
 @interface Feature2 : NSObject
 
+@property (nonatomic, strong) NSString *name;
+
+
 @end

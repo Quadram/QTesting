@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     NSLog(@"Add code to feature1");
+    NSLog(@"Other line code to feature1");
     
     return YES;
 }

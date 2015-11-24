@@ -13,6 +13,8 @@
 		2AAF13421C038C7900160179 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13401C038C7900160179 /* Main.storyboard */; };
 		2AAF13441C038C7900160179 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13431C038C7900160179 /* Assets.xcassets */; };
 		2AAF13471C038C7900160179 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AAF13451C038C7900160179 /* LaunchScreen.storyboard */; };
+		38F7A7A61C04C99A001B4C85 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F7A7A41C04C99A001B4C85 /* MainViewController.m */; };
+		38F7A7A71C04C99A001B4C85 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38F7A7A51C04C99A001B4C85 /* MainViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		2AAF13431C038C7900160179 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AAF13461C038C7900160179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AAF13481C038C7900160179 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38F7A7A31C04C99A001B4C85 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		38F7A7A41C04C99A001B4C85 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		38F7A7A51C04C99A001B4C85 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +72,9 @@
 				2AAF13451C038C7900160179 /* LaunchScreen.storyboard */,
 				2AAF13481C038C7900160179 /* Info.plist */,
 				2AAF13371C038C7900160179 /* Supporting Files */,
+				38F7A7A31C04C99A001B4C85 /* MainViewController.h */,
+				38F7A7A41C04C99A001B4C85 /* MainViewController.m */,
+				38F7A7A51C04C99A001B4C85 /* MainViewController.xib */,
 			);
 			path = QTesting;
 			sourceTree = "<group>";
@@ -139,6 +147,7 @@
 				2AAF13471C038C7900160179 /* LaunchScreen.storyboard in Resources */,
 				2AAF13441C038C7900160179 /* Assets.xcassets in Resources */,
 				2AAF13421C038C7900160179 /* Main.storyboard in Resources */,
+				38F7A7A71C04C99A001B4C85 /* MainViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +161,7 @@
 				2AAF133F1C038C7900160179 /* ViewController.m in Sources */,
 				2AAF133C1C038C7900160179 /* AppDelegate.m in Sources */,
 				2AAF13391C038C7900160179 /* main.m in Sources */,
+				38F7A7A61C04C99A001B4C85 /* MainViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
